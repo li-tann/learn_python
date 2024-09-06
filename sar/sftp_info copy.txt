@@ -1,0 +1,6 @@
+hsotname: "61.185.255.86"
+post: "2211"
+username: "gacos03"
+Password: "bdcgs@2021"
+localpath: "./tmp/"
+remotepath: "/home/ftp/gacos03/share_file/"
